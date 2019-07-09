@@ -7,5 +7,5 @@
 <p>HTML, CSS, JavaScript, JQuery, Node.js, Express, Express-Handlebars, Express-session, Passport, Bcrypt-nodejs, MySql, Sequelize</p>
 
 <h2>Guest Account</h2>
-<p>Username: admin</p>
+<p>Username: admin@gmail.com</p>
 <p>password: admin</p>
