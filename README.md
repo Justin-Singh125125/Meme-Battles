@@ -8,4 +8,4 @@
 
 <h2>Guest Account</h2>
 <p>Username: admin@gmail.com</p>
-<p>password: admin</p>
+<p>Password: admin</p>
